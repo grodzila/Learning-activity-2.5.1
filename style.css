@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: grey;
+}
+
+h1{
+    color: blue;
+}
+#the{
+    color: aqua;
+}
+p{
+    color: goldenrod;
+}
+
+
+#ger{
+    color: yellow;
+}
+
+#myPadding{
+border:10px dashed black;
+width: 600px;
+height: 150x;
+margin-left: 30%;
+margin-top: 10%;
+padding: 30px;
+}
+
+
+p{
+    margin: 0;
+}
